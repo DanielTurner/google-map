@@ -11,13 +11,13 @@
     "@danielturner/google-apis": "^3.0.0-pre.1",
     "@polymer/iron-resizable-behavior": "^3.0.0-pre.1",
     "@polymer/iron-selector": "^3.0.0-pre.1",
-    "@polymer/polymer": "^3.0.0-pre.1"
+    "@polymer/polymer": "^3.0.0-pre.1",
   },
   "deprecated": false,
   "description": "Google Maps web components",
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^1.0.0",
-    "@web-component-tester": "^6.9.0"
+    "web-component-tester": "^6.9.0"
   },
   "flat": true,
   "homepage": "https://elements.polymer-project.org/elements/google-map",
