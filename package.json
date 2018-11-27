@@ -31,7 +31,7 @@
   ],
   "license": "Apache-2.0",
   "name": "@danielturner/google-map",
-  "version": "3.0.0-pre.62",
+  "version": "3.0.0-pre.63",
   "main": "google-map.js",
   "directories": {
     "test": "test"
