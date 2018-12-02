@@ -1,5 +1,5 @@
 import { Polymer } from '../../@polymer/polymer/lib/legacy/polymer-fn.js';
-import { html } from '@polymer/polymer/lib/utils/html-tag.js';
+import { html } from '../../@polymer/polymer/lib/utils/html-tag.js';
 /* Copyright (c) 2015 Google Inc. All rights reserved. */
 /*
 Provides the Google Maps API Directions Service to provide directions
