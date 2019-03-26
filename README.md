@@ -1,10 +1,11 @@
 google-map
 ==========
+You came here probably because Google Maps doesn't work with your Polymer 3 build.
+This one functions for now, not efficiently but consider it a temporary solution.
+Use until Google releases a lit-html version.
+[`See the progress here`](https://github.com/justinfagnani/google-map/tree/lit-element)
 
-If you are seeking a smaller, simplified version of `google-map`, we recommend using
-[`good-map`](https://www.webcomponents.org/element/keanulee/good-map)
-
-
+Forked from the fork that forked this originally...
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://beta.webcomponents.org/element/GoogleWebComponents/google-map)
 
 <!---
